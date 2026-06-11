@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-customer-behavior-insights
+description: "BIAN Service Domain: Customer Behavior Insights (Analyze pattern, Sales and Service)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - analyze
+annotations:
+  bian/business-area: "Sales and Service"
+  bian/business-domain: "Customer Management"
+  bian/asset-type: "Customer Behavior Model"
+  bian/control-record: "Customer Behavior Model Analysis"
